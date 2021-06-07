@@ -9,7 +9,7 @@ class DeviceSwitch extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    return Text(deviceSwitch, style: TextStyle(fontSize: 16, fontWeight: FontWeight.w100));
+    return Text(deviceSwitch, style: TextStyle(fontSize: 16));
   }
 
 }
